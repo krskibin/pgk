@@ -1,0 +1,19 @@
+﻿  Application.cpp
+  FrameRenderer.cpp
+  InputManager.cpp
+  LineRenderer.cpp
+  MeshManager.cpp
+  CameraManager.cpp
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+  Game.cpp
+  Level.cpp
+  Main.cpp
+  Math.cpp
+  MeshRenderer.cpp
+  Renderer.cpp
+  TextRenderer.cpp
+  TextureManager.cpp
+  Timer.cpp
+  Window.cpp
+  Generowanie kodu...
+  FirstEngine.vcxproj -> C:\Users\s282276\Downloads\ProgrammingCourse_Lesson02\Debug\FirstEngine.exe
